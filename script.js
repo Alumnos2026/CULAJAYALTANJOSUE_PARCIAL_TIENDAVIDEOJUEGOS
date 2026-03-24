@@ -14,6 +14,11 @@ let proximoJuego;                        // undefined
 
 
 // Mostrar todos los valores con console.log
+// Imprime cada variable en la consola con un mensaje descriptivo
+// Utilizamos console.log para mostrar el valor de cada variable junto con una descripción clara.
+// Esto ayuda a entender qué representa cada variable y facilita la depuración del código.
+//como podemos visualizarlo?
+// El resultado se mostrará en la consola del navegador, donde cada variable se imprimirá con su respectiva descripción, permitiendo verificar que los valores son correctos y entender el contexto de cada uno.
 console.log("Nombre de la tienda:", nombreTienda);
 console.log("Juego destacado:", juegoDestacado);
 console.log("Precio promedio:", precioPromedio);
